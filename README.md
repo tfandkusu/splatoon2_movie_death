@@ -1,0 +1,2 @@
+# splatoon2_movie_death
+スプラトゥーン2のプレイ動画から、やられたシーンを切り出すJupyterのノートブックです。
